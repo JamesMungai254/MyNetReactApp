@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/JamesMungai254.github.io/MyNetReactApp/static/css/main.b583bd63.css",
+    "main.js": "/JamesMungai254.github.io/MyNetReactApp/static/js/main.b370567d.js",
+    "static/js/453.8ab44547.chunk.js": "/JamesMungai254.github.io/MyNetReactApp/static/js/453.8ab44547.chunk.js",
+    "static/media/cover.jpg": "/JamesMungai254.github.io/MyNetReactApp/static/media/cover.e5852841ed655c5cda28.jpg",
+    "static/media/nhif.jpg": "/JamesMungai254.github.io/MyNetReactApp/static/media/nhif.10190b6e712ed2bf8cb1.jpg",
+    "static/media/nssf.jpg": "/JamesMungai254.github.io/MyNetReactApp/static/media/nssf.80bc0c0e7e8aedad6b6d.jpg",
+    "static/media/kra.webp": "/JamesMungai254.github.io/MyNetReactApp/static/media/kra.9177a6f8a33a45885c16.webp",
+    "index.html": "/JamesMungai254.github.io/MyNetReactApp/index.html",
+    "main.b583bd63.css.map": "/JamesMungai254.github.io/MyNetReactApp/static/css/main.b583bd63.css.map",
+    "main.b370567d.js.map": "/JamesMungai254.github.io/MyNetReactApp/static/js/main.b370567d.js.map",
+    "453.8ab44547.chunk.js.map": "/JamesMungai254.github.io/MyNetReactApp/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b583bd63.css",
+    "static/js/main.b370567d.js"
+  ]
+}
